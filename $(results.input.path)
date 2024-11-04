@@ -1,0 +1,1 @@
+[{"type": "rpm", "options": {"ssl": {"client_key": null, "client_cert": null, "ca_bundle": null, "verify": 1}}}]
